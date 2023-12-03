@@ -2,7 +2,7 @@
 *##(FRONT-END DEVELOPER)*
 
 
-#Contacts
+##Contacts
 
 - *Location:* Russia, Vladivostok
 - *Phone:* +7 (920) 835-78-35
@@ -10,13 +10,13 @@
 - *GitHub:* MariaKomardina
 
 
-#About Me
+##About Me
 
 I am a candidate with good interpersonal skills, eager to be part of a dynamic team. 
 I have an interest in learning programming.
 
 
-#Skills 
+##Skills 
 
 - Markdown
 - HTML
@@ -31,7 +31,7 @@ I have an interest in learning programming.
 - MySQL
 
 
-#Code Example
+##Code Example
 
 \```
   function clickElementCloseMenu(isOpen) {
@@ -44,3 +44,13 @@ I have an interest in learning programming.
     });
   }
 \```
+
+
+## Education
+
+- *University:* Far Eastern Federal University (FEFU)
+- *Courses:*
+    + [Academy Step][https://itstep.org/]
+    + [RSSchool][https://rs.school/]
+
+
