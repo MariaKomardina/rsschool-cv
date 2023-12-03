@@ -1,9 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&family=Yellowtail&display=swap');
+
+/* font-family: 'Titillium Web', sans-serif;
+font-family: 'Yellowtail', cursive; */
+
 * {
+  font-family: "Titillium Web";
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-header {
-  
+html {
+  scroll-behavior: smooth;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+              url("/picture1.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;    
+  background-position: 80% -20%;   
+  color: #FFFFFF;    
+}
+
+.wrapper .content-section {
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.wrapper .content-section header {
+  padding: 30px;
+}
+
+.wrapper .content-section nav {
+  position: fixed;
+  margin-left: 60px;
+  background-color: #be264c;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: left;
+  z-index: 100;
+  display: none;
+}
+
+.wrapper .content-section nav a {
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
