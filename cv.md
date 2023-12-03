@@ -1,5 +1,5 @@
-** # Maria Komardina **
-* ## (FRONT-END DEVELOPER) *
+# *Maria Komardina*
+## **(FRONT-END DEVELOPER)**
 
 
 ## Contacts
@@ -34,6 +34,7 @@ I have an interest in learning programming.
 ## Code Example
 
 \```
+
   function clickElementCloseMenu(isOpen) {
     menuItem.forEach((item) => {
       item.addEventListener("click", () => {
@@ -43,6 +44,7 @@ I have an interest in learning programming.
       });
     });
   }
+
 \```
 
 
