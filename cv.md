@@ -14,3 +14,18 @@
 
 I am a candidate with good interpersonal skills, eager to be part of a dynamic team. 
 I have an interest in learning programming.
+
+
+#Skills 
+
+- Markdown
+- HTML
+- CSS/SASS
+- JavaScript
+- React
+- Thymeleaf
+- Material UI
+- Java
+- Spring Boot
+- Visual Basic Application
+- MySQL
