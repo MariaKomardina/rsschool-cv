@@ -46,7 +46,7 @@ I have an interest in learning programming.
 \```
 
 
-## Education
+##Education
 
 - *University:* Far Eastern Federal University (FEFU)
 - *Courses:*
@@ -54,3 +54,7 @@ I have an interest in learning programming.
     + [RSSchool][https://rs.school/]
 
 
+##Language
+
+- Russian
+- English
