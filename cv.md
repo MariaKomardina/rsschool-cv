@@ -10,3 +10,7 @@
 - *GitHub:* MariaKomardina
 
 
+#About Me
+
+I am a candidate with good interpersonal skills, eager to be part of a dynamic team. 
+I have an interest in learning programming.
