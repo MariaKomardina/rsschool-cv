@@ -29,3 +29,18 @@ I have an interest in learning programming.
 - Spring Boot
 - Visual Basic Application
 - MySQL
+
+
+#Code Example
+
+\```
+  function clickElementCloseMenu(isOpen) {
+    menuItem.forEach((item) => {
+      item.addEventListener("click", () => {
+        menu.classList.toggle("open__menu");
+        burgerMenu.classList.toggle("animation");
+        isOpen();
+      });
+    });
+  }
+\```
