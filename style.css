@@ -288,6 +288,7 @@ a {
 
 .skills .content-section .skill-item .bar .e {
   width: 20px;
-  height: 25px;
+  height: 30px;
+  margin-right: 2px;
   background-color: var(--color-dark);
 }
